@@ -1,0 +1,19 @@
+@media (max-width: 768px) { 
+    .bottom-navbar {
+      display: none; 
+    }
+    .mobile-margin {
+      margin-top: 10px; 
+    }
+  }
+  .navbar-toggler {
+    border: none; 
+  }
+  
+  .navbar-toggler:hover {
+    border: none; 
+  }
+  .navbar-nav .nav-link {
+    margin-left: 10px; 
+  }
+  
