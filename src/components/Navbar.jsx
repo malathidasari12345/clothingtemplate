@@ -80,7 +80,7 @@ const CustomNavbar = () => {
 
       {/* Bottom Navigation Links */}
       <Container fluid className="mt-5  bottom-navbar" style={{ backgroundColor: '#ffffff', borderBottom: '1px solid #ccc', padding: '10px 0', position: 'fixed', top:5, width: '100%', zIndex: 1000 }}> 
-        <Nav className="justify-content-center" style={{ color: 'black', fontWeight: 'bold' }}>
+        <Nav className="justify-content-center" style={{ color: 'red', fontWeight: 'bold' }}>
           <NavDropdown title="MEN" id="navbarScrollingDropdown">
             <NavDropdown.Item href="#" style={{ color: '#014421' }}>Shirts</NavDropdown.Item>
             <NavDropdown.Item href="#" style={{ color: '#014421' }}>Trousers</NavDropdown.Item>
